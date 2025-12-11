@@ -52,3 +52,6 @@ python MidTk0.4.9.py
 press enter
 
 (make sure you have the correct location of the MidTk0.4.9.py [drag it into the conda window]) 
+
+To use the midtk interface on the same machine to control Ableton Live you will need an internal router like 
+https://www.tobias-erichsen.de/software/loopmidi.html
